@@ -6,7 +6,7 @@ First, go to the run you want to retime, this video has to be in Google Drive or
 
 Right click the video and click `Stats for nerds`
 
-![image](assets/ss1)
+![image](assets/ss1.jpg)
 
 # Features
 This retimer has a few features, heres a list of em:
