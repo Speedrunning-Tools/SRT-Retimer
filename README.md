@@ -66,3 +66,4 @@ Of course you can!
 Thanks to **[randomidiot13](https://github.com/randomidiot13)** for creating the original **[VerifClient](https://github.com/randomidiot13/queueclient)**
 
 # Other
+If you have any questions, please let me know **@icky#2264**. If you would like to see the whole list of Speedrunning tools, you can go [here](https://github.com/Speedrunning-Tools) and find the list of tools there!
