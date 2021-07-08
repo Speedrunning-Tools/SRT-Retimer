@@ -1,6 +1,31 @@
 # SRT Retimer
 A forked retimer from **[VerifClient v2](https://github.com/randomidiot13/queueclient)** created by **[randomidiot13](https://github.com/randomidiot13)** but modified a bit.
 
+# Dowloading Instructions (Windows)
+First, you need to have Python 3.x or above to run the file. (.exe file soon!)
+
+Afer you have downloaded Python, go to command prompt and type `python`
+
+If you get this result:
+
+```
+C:\Users\Example>python
+Python 3.x.x (bunch of other stuff)
+```
+
+You succesfully downloaded Python!
+
+If you get a diffrent result, try downloadid Python again, or folow a tutorial on YouTube admireAAA
+
+Now download the Python script [here]()
+
+After downloading, you should be able to duble click the script and boom, you are ready to verify some runs!
+
+# Downloading Instructions (Linux and Mac)
+Unaffortunatelly, I have not tested (and have no idea) how to download this on this OS. If you would like to contribute, you can make a PR and I can merge it.
+
+Also, if you know how to make an executable on Linux and/or Mac, please let me know **@icky#2264**. Thank you!
+
 # How to use it
 First, go to the run you want to retime, this video has to be in Google Drive or in Youtube
 
