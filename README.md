@@ -10,6 +10,10 @@ Right click the video and click `Stats for nerds`
 
 After that you will see a box that comes up in the top left corner of the video, you will look `Current / Optimal Res` section and look for the `@`. Place the numbers after the `@` in the `Framerate` text box of the retimer.
 
+For example, if it says `1920x1080@30` your gonna put `30` on the `Framerate` text box of the retimer.
+
+![image](assets/ss2.jpg) ![image](assets/ss3.jpg)
+
 # Features
 This retimer has a few features, heres a list of em:
 
