@@ -87,7 +87,7 @@ No problem! you can just open up a text editor, and go to `# Rejection Buttons` 
 
 Of course you can!
 
-**How can I remove the console when i run the Sript?**
+**How can I remove the console when I run the Sript?**
 
 Just change the extension from `.py` to `.pyw` and that will remove the console.
 
