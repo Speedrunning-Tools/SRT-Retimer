@@ -12,7 +12,9 @@ After that you will see a box that comes up in the top left corner of the video,
 
 For example, if it says `1920x1080@30` your gonna put `30` on the `Framerate` text box of the retimer.
 
-![image](assets/ss2.jpg) ![image](assets/ss3.jpg)
+![image](assets/ss2.jpg)
+
+![image](assets/ss3.jpg)
 
 # Features
 This retimer has a few features, heres a list of em:
