@@ -62,6 +62,10 @@ No problem! you can just open up a text editor, and go to `# Rejection Buttons` 
 
 Of course you can!
 
+**How can I remove the console when i run the Sript?**
+
+Just change the extension from `.py` to `.pyw` and that will remove the console.
+
 # Credit
 Thanks to **[randomidiot13](https://github.com/randomidiot13)** for creating the original **[VerifClient](https://github.com/randomidiot13/queueclient)**
 
